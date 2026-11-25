@@ -6,6 +6,9 @@
 
 I turn complex enterprise problems into practical data platforms, AI products, and agentic workflows — from discovery and architecture to PoC and production.
 
+📍 Mumbai, India · **Currently:** Senior Solution Consultant, Data & AI at Exponentia.ai
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Case_studies_%26_architecture-000000?style=flat-square&logo=vercel&logoColor=white)](https://vineetkumar-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vineetsolutionconsultant/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/earthlydope)
 
