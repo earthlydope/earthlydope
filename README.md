@@ -1,70 +1,69 @@
 <div align="center">
 
-# Hi, I'm Vineet Kumar 👋
+<img src="assets/header.svg" alt="Vineet Kumar, Presales Solution Architect, Data and AI. Currently at Exponentia.ai, Mumbai." width="100%" />
 
-### Senior Data & AI Customer Engineer
+<br />
 
-I turn complex enterprise problems into practical data platforms, AI products, and agentic workflows — from discovery and architecture to PoC and production.
-
-📍 Mumbai, India · **Currently:** Senior Solution Consultant, Data & AI at Exponentia.ai
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Case_studies_%26_architecture-000000?style=flat-square&logo=vercel&logoColor=white)](https://vineetkumar-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vineetsolutionconsultant/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/earthlydope)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Case_studies_%26_architecture-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vineetkumar-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vineetsolutionconsultant/)
 
 </div>
 
----
+## About
 
-## What I do
+Presales Solution Architect with **6+ years** across pre-sales, data platform engineering, and applied AI on **Databricks, GCP, Azure, and AWS**. I turn enterprise requirements into measurable architectures across lakehouse, MLOps, real-time pipelines, and multi-agent AI, cutting cost, sales cycles, and time-to-value for F500 clients in CPG, BFSI, Healthcare, and Retail.
 
-With 6+ years across customer engineering, solution consulting, and AI delivery, I work at the intersection of **technology, product, and business value**.
+Right now I'm a Senior Solution Consultant at **Exponentia.ai** in Mumbai, owning technical discovery, solution architecture, and PoC scoping for enterprise Data & AI.
+
+## Impact at a glance
+
+<div align="center">
+<img src="assets/stats.svg" alt="$10M+ Google Cloud ARR influenced. 6+ years in pre-sales, platforms and AI. 80+ discovery calls across the US, Canada and EMEA. 3 production agentic-AI deals closed. 500K+ daily healthcare EDI transactions. 6 Google Cloud and Databricks certifications." width="100%" />
+</div>
+
+## Career timeline
+
+<div align="center">
+<img src="assets/timeline.svg" alt="Career timeline: Ensvee (2020 to 2021), Persistent Systems (2021 to 2024), Simform Solutions (2024 to 2026), Syren Cloud Technologies (2026), and Exponentia.ai (October 2026 to present)." width="100%" />
+</div>
+
+<details>
+<summary>Text version</summary>
+
+| When | Where | Role | Highlights |
+| --- | --- | --- | --- |
+| Oct 2026 – Present | **Exponentia.ai** · Mumbai | Senior Solution Consultant | Technical discovery, solution architecture, and PoC scoping for enterprise Data & AI; governed lakehouse, MLOps, and multi-agent AI architectures with TCO/ROI models. |
+| Mar 2026 – Sep 2026 | **Syren Cloud Technologies** · Hyderabad | Senior Customer Engineer | Databricks-native supply chain AI pre-sales and a multi-agent PoC; 30% shorter average sales cycle. |
+| Dec 2024 – Mar 2026 | **Simform Solutions** · Ahmedabad | Senior Solution Consultant | 80+ discovery calls across the US, Canada, and EMEA; 3 production agentic-AI deals; healthcare EDI platform at 500K+ daily transactions. |
+| Jul 2021 – Dec 2024 | **Persistent Systems** · Gurugram | Solution Consultant, Data & AI | 200TB+ warehouse migration to BigQuery; multi-agent document-intelligence PoC in 6 weeks; $10M+ in Google Cloud ARR influenced; production GCP infrastructure and demo accelerators. |
+| Aug 2020 – Jun 2021 | **Ensvee** · Delhi | Founding Member | Product, business model, and go-to-market; MVP in 4 months and 500+ sign-ups in the first 30 days. |
+
+</details>
+
+## How I work
+
+<div align="center">
+<img src="assets/pipeline.svg" alt="Enterprise problem, then discovery and value framing, then solution architecture, then prototype or PoC, then a production plan with measurable outcomes." width="100%" />
+</div>
 
 - **Architect** cloud-native lakehouse, streaming, governance, and ML platforms across GCP, Azure, AWS, and Databricks.
-- **Build** production-oriented AI systems — from predictive ML and MLOps to RAG and multi-agent workflows.
+- **Build** production-oriented AI systems, from predictive ML and MLOps to RAG and multi-agent workflows with clear tool contracts and evaluation loops.
 - **Translate** ambiguous requirements into demos, reference architectures, PoCs, and value cases that technical and executive stakeholders can act on.
 
 ## Featured work
 
 | Project | What it demonstrates | Stack |
 | --- | --- | --- |
-| [**Project Coco**](https://github.com/earthlydope/Coco) | A revenue and follow-up operating system for orthodontic practices, with guided case intake, payment-plan validation, conversion dashboards, and an AI coaching experience. | React · TypeScript · Vite · Recharts |
-| [**RadioML**](https://github.com/earthlydope/radioml) | An end-to-end deep-learning workflow for classifying 24 radio signal types with a 1D residual network; the included notebook records **95.0% test accuracy**. | Python · TensorFlow · Keras · NumPy |
-| [**Fake News Detection**](https://github.com/earthlydope/fakenews) | An NLP workflow covering text cleaning, exploratory analysis, tokenization, learned embeddings, and bidirectional LSTM classification. | Python · TensorFlow · NLTK · Gensim |
-
-## Where I work best
-
-```text
-Enterprise problem
-      ↓
-Discovery & value framing
-      ↓
-Solution architecture
-      ↓
-Prototype / PoC
-      ↓
-Production plan & measurable outcome
-```
-
-I especially enjoy problems involving **agentic AI**, **real-time data**, **lakehouse modernization**, **MLOps**, and **AI-enabled customer experiences**.
+| [**Portfolio**](https://vineetkumar-portfolio.vercel.app/) | Case studies with their architecture left in (HLD, LLD, sequence, state, and data-model diagrams) and a guarded AI assistant grounded on one verified profile. | React · TypeScript · Vite · FastAPI · Pydantic AI · Cloud Run |
+| [**Databricks Genie Ontology skill**](https://github.com/earthlydope/databricks-genie-ontology-skill) | A skill for AI coding agents that builds, verifies, and hardens a governed Genie ontology foundation on Databricks: Unity Catalog tables, certified metric views, and a Genie agent, with 11 industry packs. | Python · Databricks · Unity Catalog · Claude Code |
+| [**Supply Chain Resilience Command Center**](https://github.com/earthlydope/scr-resilience-command-center) · [live demo](https://scr-resilience-command-center.vercel.app) | A persona-driven resilience intelligence demo for CPG: digital-twin what-ifs, disruption simulation, and an agentic AI copilot, on synthetic data that reconciles across every page. | JavaScript · ECharts |
+| [**Agentic Motor Claims Platform**](https://github.com/earthlydope/agentic-claims) | Eleven agents on a LangGraph orchestration, grounded on a governed semantic layer with zero-trust controls: automation recommends, deterministic services decide, people approve. | Python · LangGraph · Gemini |
 
 ## Toolbox
 
-**Cloud & data**  
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![Apache Flink](https://img.shields.io/badge/Apache_Flink-E6526F?style=flat-square&logo=apacheflink&logoColor=white)
-
-**AI, engineering & analytics**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+<div align="center">
+<img src="assets/stack.svg" alt="Databricks, Delta Lake, Unity Catalog, Mosaic AI, BigQuery, Vertex AI, Dataflow, Azure ML, Microsoft Fabric, Amazon SageMaker, AWS Glue, Apache Kafka, Apache Flink, LangGraph, LangChain, MLflow, Terraform, Python, SQL, Power BI, Looker, Purview, Dataplex, Great Expectations." width="100%" />
+</div>
 
 ## Certifications
 
@@ -73,18 +72,13 @@ I especially enjoy problems involving **agentic AI**, **real-time data**, **lake
 
 ## Current focus
 
-- Designing reliable multi-agent systems with clear tool contracts and evaluation loops
+- Designing governed lakehouse, MLOps, and multi-agent AI architectures with clear tool contracts and evaluation loops
 - Connecting AI use cases to operational KPIs, ROI, and adoption
 - Building governed, production-ready data foundations for enterprise AI
 
----
-
 <div align="center">
+<img src="assets/footer.svg" alt="Let's build something useful. Enterprise AI, designed and engineered from the first discovery call to production." width="100%" />
 
-### Let's build something useful
-
-I'm always happy to exchange ideas on enterprise AI, data platforms, solution engineering, and turning a promising demo into a system people trust.
-
-[Connect with me on LinkedIn](https://www.linkedin.com/in/vineetsolutionconsultant/) · [Explore my repositories](https://github.com/earthlydope?tab=repositories)
+[Portfolio](https://vineetkumar-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/vineetsolutionconsultant/) · [Repositories](https://github.com/earthlydope?tab=repositories)
 
 </div>
