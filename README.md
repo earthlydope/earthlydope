@@ -65,6 +65,8 @@ Every demo below is live; no sign-in needed. Pick a role and click around.
 ## Toolbox
 
 <div align="center">
+<img src="assets/platforms.svg" alt="Cloud and data platforms: Databricks (Lakehouse, Unity Catalog, Mosaic AI, Lakeflow, Genie, Genie Ontology and metric views), Google Cloud (BigQuery, Vertex AI, Dataflow, Looker, Knowledge Catalog and LookML), Microsoft Azure (Azure ML, Synapse, Fabric, Purview, AI Agent Service, Fabric IQ and semantic models) and Amazon Web Services (SageMaker, Glue, Kinesis, Bedrock, Redshift). Enterprise ontology and semantic layers on Databricks, Azure and GCP." width="100%" />
+<br />
 <img src="assets/stack.svg" alt="Databricks, Delta Lake, Unity Catalog, Mosaic AI, BigQuery, Vertex AI, Dataflow, Azure ML, Microsoft Fabric, Amazon SageMaker, AWS Glue, Apache Kafka, Apache Flink, LangGraph, LangChain, MLflow, Terraform, Python, SQL, Power BI, Looker, Purview, Dataplex, Great Expectations." width="100%" />
 </div>
 
@@ -75,9 +77,12 @@ Every demo below is live; no sign-in needed. Pick a role and click around.
 
 ## Current focus
 
+- **Enterprise ontology and semantic layers** on all three platforms: Databricks (Unity Catalog metric views and Genie Ontology), Azure (Fabric IQ ontology and Power BI semantic models) and GCP (Knowledge Catalog, formerly Dataplex, with Looker's LookML), so every agent reasons over the same governed business meaning
+- **Agents that share context through MCP:** tool and context contracts that any agent can call, with permissions enforced in the platform and not in the prompt
+- **Evaluation and observability for multi-agent systems:** regression suites, tracing, and cost guardrails in place before anything reaches production
+- **Open lakehouse foundations:** Delta Lake and Apache Iceberg interoperability, data products, and data contracts that make data genuinely AI-ready
 - Designing governed lakehouse, MLOps, and multi-agent AI architectures with clear tool contracts and evaluation loops
 - Connecting AI use cases to operational KPIs, ROI, and adoption
-- Building governed, production-ready data foundations for enterprise AI
 
 <div align="center">
 <img src="assets/footer.svg" alt="Let's build something useful. Enterprise AI, designed and engineered from the first discovery call to production." width="100%" />
