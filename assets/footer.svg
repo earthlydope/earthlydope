@@ -11,8 +11,8 @@
 <path d="M0 128 Q125.0 116 250.0 128 T500.0 128 T750.0 128 T1000.0 128 T1250.0 128 T1500.0 128 T1750.0 128 T2000.0 128 L2000 190 L0 190 Z" fill="#F2B800" opacity="0.9"><animateTransform attributeName="transform" type="translate" from="0 0" to="-1000 0" dur="17s" repeatCount="indefinite"/></path>
     <path d="M0 142 Q125.0 127 250.0 142 T500.0 142 T750.0 142 T1000.0 142 T1250.0 142 T1500.0 142 T1750.0 142 T2000.0 142 L2000 190 L0 190 Z" fill="#E2A600" opacity="0.9"><animateTransform attributeName="transform" type="translate" from="-1000 0" to="0 0" dur="25s" repeatCount="indefinite"/></path>
     <path d="M0 160 Q125.0 151 250.0 160 T500.0 160 T750.0 160 T1000.0 160 T1250.0 160 T1500.0 160 T1750.0 160 T2000.0 160 L2000 190 L0 190 Z" fill="#C98F00" opacity="0.9"><animateTransform attributeName="transform" type="translate" from="0 0" to="-1000 0" dur="33s" repeatCount="indefinite"/></path>
-    <text x="500" y="70" font-family="Montserrat, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="40" font-weight="600" fill="#111013" text-anchor="middle" letter-spacing="-1.2" textLength="560" lengthAdjust="spacingAndGlyphs">Let's build something useful.</text>
-    <text x="500" y="102" font-family="Montserrat, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" font-weight="500" fill="#24262B" text-anchor="middle" textLength="600" lengthAdjust="spacingAndGlyphs">Enterprise AI, designed and engineered from the first discovery call to production.</text>
+    <text x="500" y="70" font-family="Arial, 'Liberation Sans', Helvetica, sans-serif" font-size="40" font-weight="700" fill="#111013" text-anchor="middle" letter-spacing="-0.8">Let's build something useful.</text>
+    <text x="500" y="102" font-family="Arial, 'Liberation Sans', Helvetica, sans-serif" font-size="15" font-weight="400" fill="#24262B" text-anchor="middle">Enterprise AI, designed and engineered from the first discovery call to production.</text>
   </g>
   <rect x="0.5" y="0.5" width="999" height="189" rx="18" fill="none" stroke="#E2A600"/>
 </svg>
