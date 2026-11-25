@@ -4,8 +4,7 @@
 
 <br />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Case_studies_%26_architecture-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vineetkumar-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vineetsolutionconsultant/)
+<a href="https://vineetkumar-portfolio.vercel.app/"><img src="assets/btn-portfolio.svg" height="48" alt="View portfolio" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/vineetsolutionconsultant/"><img src="assets/btn-linkedin.svg" height="48" alt="Connect on LinkedIn" /></a>
 
 </div>
 
@@ -52,12 +51,16 @@ Right now I'm a Senior Solution Consultant at **Exponentia.ai** in Mumbai, ownin
 
 ## Featured work
 
+Every demo below is live; no sign-in needed. Pick a role and click around.
+
 | Project | What it demonstrates | Stack |
 | --- | --- | --- |
-| [**Portfolio**](https://vineetkumar-portfolio.vercel.app/) | Case studies with their architecture left in (HLD, LLD, sequence, state, and data-model diagrams) and a guarded AI assistant grounded on one verified profile. | React · TypeScript · Vite · FastAPI · Pydantic AI · Cloud Run |
-| [**Databricks Genie Ontology skill**](https://github.com/earthlydope/databricks-genie-ontology-skill) | A skill for AI coding agents that builds, verifies, and hardens a governed Genie ontology foundation on Databricks: Unity Catalog tables, certified metric views, and a Genie agent, with 11 industry packs. | Python · Databricks · Unity Catalog · Claude Code |
-| [**Supply Chain Resilience Command Center**](https://github.com/earthlydope/scr-resilience-command-center) · [live demo](https://scr-resilience-command-center.vercel.app) | A persona-driven resilience intelligence demo for CPG: digital-twin what-ifs, disruption simulation, and an agentic AI copilot, on synthetic data that reconciles across every page. | JavaScript · ECharts |
-| [**Agentic Motor Claims Platform**](https://github.com/earthlydope/agentic-claims) | Eleven agents on a LangGraph orchestration, grounded on a governed semantic layer with zero-trust controls: automation recommends, deterministic services decide, people approve. | Python · LangGraph · Gemini |
+| **Portfolio**<br/><sub>[Live site ↗](https://vineetkumar-portfolio.vercel.app/)</sub> | Case studies with their architecture left in (HLD, LLD, sequence, state, and data-model diagrams) and a guarded AI assistant grounded on one verified profile. | React · TypeScript · Vite · FastAPI · Pydantic AI · Cloud Run |
+| **Agentic Motor Claims Platform**<br/><sub>[Live demo ↗](https://agentic-claims-nu.vercel.app) · [Code](https://github.com/earthlydope/agentic-claims)</sub> | Eleven agents on a LangGraph orchestration, grounded on a governed semantic layer with zero-trust controls: automation recommends, deterministic services decide, people approve. | Python · LangGraph · Gemini |
+| **Supply Chain Resilience Command Center**<br/><sub>[Live demo ↗](https://scr-resilience-command-center.vercel.app) · [Code](https://github.com/earthlydope/scr-resilience-command-center)</sub> | A persona-driven resilience intelligence demo for CPG: digital-twin what-ifs, disruption simulation, and an agentic AI copilot, on synthetic data that reconciles across every page. | JavaScript · ECharts |
+| **Supplier Risk Sensing**<br/><sub>[Live demo ↗](https://srs-supplier-risk-sensing.vercel.app)</sub> | An agentic supply-risk command center: live event sensing, revenue exposure, supplier and material risk, AI-proposed mitigations, and what-if simulation, with a mobile and a web view per role. | JavaScript · ECharts |
+| **Retail 360**<br/><sub>[Live demo ↗](https://rct-portal-replica.vercel.app)</sub> | A retail analytics dashboard with AI-powered insights over customer data. | Next.js · Recharts · Databricks · Claude |
+| **Databricks Genie Ontology skill**<br/><sub>[Code ↗](https://github.com/earthlydope/databricks-genie-ontology-skill)</sub> | A skill for AI coding agents that builds, verifies, and hardens a governed Genie ontology foundation on Databricks: Unity Catalog tables, certified metric views, and a Genie agent, with 11 industry packs. | Python · Databricks · Unity Catalog · Claude Code |
 
 ## Toolbox
 
